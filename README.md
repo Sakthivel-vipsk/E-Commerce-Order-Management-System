@@ -1,0 +1,1 @@
+A microservices-based application for managing e-commerce orders. It includes features such as order creation, inventory management, and notifications. Each feature is a separate microservice communicating via Kafka.
